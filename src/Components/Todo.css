@@ -1,0 +1,19 @@
+.main-row{
+  height:100vh
+}
+
+.main-col{
+  max-width:500px;
+  min-height:300px;
+}
+
+.todo-done{
+  text-decoration: line-through;
+}
+
+.container{
+  flex: content;
+  flex-direction: column;
+  align-content: center;
+  /* background-color: aquamarine; */
+}
